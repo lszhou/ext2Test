@@ -1,4 +1,6 @@
-**This package includes the following implementations and programs in order to test the Linux ext2 file system. **
+##DOCUMENTS##
+
+This package includes the following implementations and programs in order to test the Linux ext2 file system.
 
 - Write 1GB of data to a single new file (data.txt).
 
